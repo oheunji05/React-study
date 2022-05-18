@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.main-bg{
+  height: 250px;
+  background-image: url('./run.jpg');
+  background-size: cover;
+}
